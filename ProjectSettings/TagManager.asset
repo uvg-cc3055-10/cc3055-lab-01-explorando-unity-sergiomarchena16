@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bird
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3583384313
+    locked: 0
+  - name: World
+    uniqueID: 3975456269
+    locked: 0
+  - name: Character
+    uniqueID: 3939949997
     locked: 0
